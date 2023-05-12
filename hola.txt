@@ -1,1 +1,5 @@
+Español:
 Hola, este es mi primer .txt!!!
+
+Inglés:
+Hi, this is my first .txt!!!
